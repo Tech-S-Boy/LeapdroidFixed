@@ -1,11 +1,7 @@
 # LeapDroid
+This project isn't mine the original repo comes from CE1CECL but i fixed it to run on windows correctly (only windows for linux go on https://github.com/CE1CECL/LeapDroid)
 
 To Install LeapDroid:
-
-On Linux:
-```
-./remote_flash.sh
-```
 
 On Windows:
 ```
